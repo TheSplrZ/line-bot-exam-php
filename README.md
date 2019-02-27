@@ -1,2 +1,1 @@
-# line-bot-exam-php
-example use message api line
+# LINE-BOT-PHP-Starter
